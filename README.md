@@ -3,10 +3,11 @@
 
 Unzip the zip file submitted (Final Project).
 
-There are 3 files inside "Final Project" folder:
+There are 4 files inside "Final Project" folder:
   1. datasets folder
   2. Project Codes folder
   3. documentation file
+  4. ReadMe file
   
 ### Setup
 >Datasets Folder consists of 2 folders for "MNIST" and "OCR"
